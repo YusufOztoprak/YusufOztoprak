@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Yusuf 👋
 
-<!--
-**YusufOztoprak/YusufOztoprak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Engineering student building backend and AI backend systems.
+Looking for a junior backend / AI backend role or internship (remote or Europe).
 
-Here are some ideas to get you started:
+## What I work with
+Node.js · NestJS · TypeScript · Python · PostgreSQL · pgvector · Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+- **[evorag](https://github.com/YusufOztoprak/evorag)**: RAG retrieval service in Python with Clean Architecture, PostgreSQL + pgvector
+- **[rag-service](https://github.com/YusufOztoprak/rag-service)**: production-style RAG API with NestJS and pgvector (live demo)
+- **[evo-sim](https://github.com/YusufOztoprak/evo-sim)**: evolutionary population simulator (live demo)
+- **[clearfile](https://github.com/YusufOztoprak/clearfile)**: AI invoice compliance agent, built for a DevNetwork hackathon
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/yusufoztoprak35/) · yusufoztoprak35@gmail.com
