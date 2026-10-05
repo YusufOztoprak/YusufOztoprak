@@ -1,7 +1,7 @@
 # Hi, I'm Yusuf 👋
 
 Final-year Computer Engineering student building backend and AI backend systems.
-Looking for a junior backend / AI backend role or internship (remote or Europe).
+Looking for a junior backend / AI backend role or internship.
 
 ## What I work with
 Node.js · NestJS · TypeScript · Python · PostgreSQL · pgvector · Docker
