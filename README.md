@@ -7,6 +7,7 @@ Looking for a junior backend / AI backend role or internship.
 Node.js · NestJS · TypeScript · Python · PostgreSQL · pgvector · Docker
 
 ## Selected projects
+- **[Klartext](https://github.com/LeFlegm/Klartext)**: batch triage of official Swiss letters on Apertus, with an 8B to 70B model cascade and every extracted fact checked against the letter in code (Hack Apertus 2026, team project)
 - **[evorag](https://github.com/YusufOztoprak/evorag)**: RAG retrieval service in Python with Clean Architecture, PostgreSQL + pgvector
 - **[rag-service](https://github.com/YusufOztoprak/rag-service)**: production-style RAG API with NestJS and pgvector (live demo)
 - **[evo-sim](https://github.com/YusufOztoprak/evo-sim)**: evolutionary population simulator (live demo)
