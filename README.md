@@ -13,5 +13,9 @@ Node.js · NestJS · TypeScript · Python · PostgreSQL · pgvector · Docker
 - **[evo-sim](https://github.com/YusufOztoprak/evo-sim)**: evolutionary population simulator (live demo)
 - **[clearfile](https://github.com/YusufOztoprak/clearfile)**: AI invoice compliance agent, built for a DevNetwork hackathon
 
+## Writing & notes
+- **Blog:** [Backend & AI Notes](https://yusufoztoprak.hashnode.dev), latest: [Counting OpenAI tokens per request in FastAPI without touching my use cases](https://yusufoztoprak.hashnode.dev/counting-openai-tokens-per-request-in-fastapi-without-touching-my-use-cases)
+- **[learning-notes](https://github.com/YusufOztoprak/learning-notes)**: weekly study notes from my backend roadmap
+
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/yusufoztoprak35/) · yusufoztoprak35@gmail.com
